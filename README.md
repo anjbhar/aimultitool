@@ -175,12 +175,4 @@ MIT License - feel free to use this project for personal or commercial purposes.
 - [shadcn](https://twitter.com/shadcn) for the amazing component library
 - [Vercel](https://vercel.com) for Next.js and hosting
 
-## Support
 
-For issues and questions:
-- OpenRouter API: [OpenRouter Docs](https://openrouter.ai/docs)
-- Create an issue in this repository
-
----
-
-Built with ❤️ using Next.js and OpenRouter
